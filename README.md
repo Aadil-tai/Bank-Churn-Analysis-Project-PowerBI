@@ -40,13 +40,8 @@
 - 📈 Presented demographic insights through visualizations, such as donut charts, representing churn rate by gender, age group, and country.
 - 📊 Analyzed the influence of bank products and services on customer churn and visualized the results in stacked column charts.
 
-### User Training and Feedback
-- 🎓 Conducted user training sessions to ensure effective adoption of the dashboard.
-- 📢 Actively sought and incorporated feedback from users for continuous improvement.
+## 📂 Dashboard Interaction Instructions
+- To interact with the dashboard, please refer to the [Dashboard Interaction.docx](./Dashboard%20Interaction.docx) document.
 
-### Data Governance and Security
-- 🔒 Enforced data governance best practices, safeguarding data accuracy and security throughout the project.
-
-### Decision Support and Distribution
-- 📈 Empowered the organization with data-driven insights, facilitating informed decision-making and customer retention strategies.
-- 🌐 Established a system for sharing and distributing the dashboard to relevant teams and individuals.
+## 📂 Documentation
+- To access the comprehensive project documentation, open the [Bank Churn Analysis Documentation.pdf](./path-to-your-pdf/Bank%20Churn%20Analysis%20Documentation.pdf) included in the project folder.
