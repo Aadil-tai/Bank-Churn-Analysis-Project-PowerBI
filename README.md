@@ -41,7 +41,7 @@
 - 📊 Analyzed the influence of bank products and services on customer churn and visualized the results in stacked column charts.
 
 ## 📂 Dashboard Interaction Instructions
-- To interact with the dashboard, please refer to the [Dashboard Interaction.docx](Dashboard%20Interaction.docx) document.
+- To interact with the dashboard, please refer to the [Dashboard Interaction.docx]([Dashboard%20Interaction.docx](https://github.com/Aadil-tai/Bank-Churn-Analysis-Project-PowerBI/blob/main/Dashboard%20interaction.docx)) document.
 
 ## 📂 Documentation
 - To access the comprehensive project documentation, open the [Bank Churn Analysis Documentation.pdf]([Bank%20Churn%20Analysis%20Documentation.pdf](https://github.com/Aadil-tai/Bank-Churn-Analysis-Project-PowerBI/blob/main/Bank%20churn%20analysis%20documentation.pdf)https://github.com/Aadil-tai/Bank-Churn-Analysis-Project-PowerBI/blob/main/Bank%20churn%20analysis%20documentation.pdf]) included in the project folder.
