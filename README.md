@@ -42,6 +42,8 @@
 
 ## 📂 Dashboard Interaction Instructions
 - To interact with the dashboard, please refer to the [Dashboard Interaction.docx](Dashboard%20interaction.docx)) document.
+- OR
+- To interact with the dashboard, please refer to the [BankChurn Dashboard.pptx](BankChurn%20Dashboard.pptx)) PowerPoint Presentation which have Interactive PowerBI dashboard linked.
 
 ## 📂 Documentation
 - To access the comprehensive project documentation, open the [Bank Churn Analysis Documentation.pdf]([Bank%20Churn%20Analysis%20Documentation.pdf](Bank%20churn%20analysis%20documentation.pdf) included in the project folder.
