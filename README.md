@@ -44,4 +44,4 @@
 - To interact with the dashboard, please refer to the [Dashboard Interaction.docx](./Dashboard%20Interaction.docx) document.
 
 ## 📂 Documentation
-- To access the comprehensive project documentation, open the [Bank Churn Analysis Documentation.pdf](./path-to-your-pdf/Bank%20Churn%20Analysis%20Documentation.pdf) included in the project folder.
+- To access the comprehensive project documentation, open the [Bank Churn Analysis Documentation.pdf](Bank%20Churn%20Analysis%20Documentation.pdf) included in the project folder.
